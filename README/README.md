@@ -16,21 +16,18 @@ Generate detailed visual and PDF reports
 📂 Project Structure
 
 Customer_Segmentation_Recommendation_System/
-│
-├── data/
-│   ├── expand_sample_transactions.csv           
-│
-├── images/
-│   ├── Elbow Curve.png                   
-│   ├── customer_segmentation.png         
-│   ├── Cluster_Spending_Distribution.png 
-│
-├── code/
-│   ├── customer_segmentation_starter.ipynb  
-├── reports/
-│   ├── Customer_Segmentation_Report_Manasa.pdf  
-│
-└── README.md 
+    1.data/
+        ├── expand_sample_transactions.csv           
+    2.images/
+      ├── Elbow Curve.png                   
+      ├── customer_segmentation.png         
+      ├── Cluster_Spending_Distribution.png 
+    3.code/
+      ├── customer_segmentation_starter.ipynb  
+    4.reports
+      ├── Customer_Segmentation_Report_Manasa.pdf  
+
+     5.README.md 
 
 🧾 Dataset Description
 
@@ -148,3 +145,4 @@ jupyter notebook customer_segmentation_starter.ipynb
 
 
                           
+
